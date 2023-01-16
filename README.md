@@ -1,2 +1,2 @@
 # odin-recipes
-first project
+first project that I will doing.
